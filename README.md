@@ -8,7 +8,7 @@ I am currently pursuing my Bachelors of Technology in Computer Science and Engin
 
 - 🌍 I'm based in **Kanpur**
 - 📫 You can contact me at [srivastava.stuti1806@gmail.com](mailto:srivastava.stuti1806@gmail.com)
-- 🎨 I'm a **UI/UX enthusiast** who loves crafting clean, user-friendly interfaces alongside solid backend logic.** Also an aspiring **MERN stack developer** along with other skills like C, C++, Java, Javascript, Python, SQL, PL.
+- 🎨 I'm an **UI/UX enthusiast** who loves crafting clean, user-friendly interfaces alongside solid backend logic.** Also an aspiring **MERN stack developer** along with other skills like C, C++, Java, Javascript, Python, SQL, PL.
 - 🤓 Driven by curiosity and continuous learning, I am eager to contribute to impactful solutions, and grow as a developer in dynamic, technology-driven environments.
 
 ---
