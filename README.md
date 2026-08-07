@@ -15,7 +15,7 @@ I am currently pursuing my Bachelors of Technology in Computer Science and Engin
 
 ## Skills
 
-![Skills](https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,java,nodejs,express,SQL,vscode,canva,figma)
+![Skills](https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,java,nodejs,express,vscode,figma)
 
 ---
 
