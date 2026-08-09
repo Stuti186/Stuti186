@@ -1,12 +1,11 @@
 
 
-# Hi 👋 My name is Stuti Srivastava
+# Hi there👋 I'm Stuti Srivastava
 
 ![Profile views](https://komarev.com/ghpvc/?username=Stuti186&color=blue)
 
 I am currently pursuing my Bachelors of Technology in Computer Science and Engineering from Dr. APJ Abdul Kalam Technical University.
 
-- 🌍 I'm based in **Kanpur**
 - 📫 You can contact me at [srivastava.stuti1806@gmail.com](mailto:srivastava.stuti1806@gmail.com)
 - 🎨 I'm an **UI/UX enthusiast** who loves crafting clean, user-friendly interfaces alongside solid backend logic.I'm also an aspiring **MERN stack developer** along with other skills like C, C++, Java, Javascript, Python, SQL, PL.
 - 🤓 Driven by curiosity and continuous learning, I am eager to contribute to impactful solutions, and grow as a developer in dynamic, technology-driven environments.
